@@ -37,16 +37,16 @@ wouldn't bet your own money on it, don't claim edge. Year-by-year
 testing, 500-seed Monte Carlo for anything random, post-cost everything. 
 
 Some bots were pure philosophical bets: e.g. Monkey bought and sold randomly 
-but tried to maintain S/L discipline. Overtime, this produced nothing.
+but tried to maintain S/L discipline. Over time, this produced nothing.
 
-What survived so far: 
+What survived thus far: 
 
 - Spike reversion rate (63-67%, regime-invariant, causally clean,
-currently untradeable after costs but the most robust finding).
+currently untradeable on retail latency and costs but the most robust finding).
  
 - M1 grid coordination effect (on-grid edge; off-grid: -1.29/trade).
  
-- Drunkard geometry (64.2% pct_pos on random entries, confirmed in Tester — 
+- Drunkard extreme geometry (64.2% pct_pos on random entries, confirmed in Tester — 
 a real chassis waiting for a real direction signal).
 
 **THE BOTS**
