@@ -7,7 +7,8 @@ Two weeks in the summer of 2026 trying to automate a prop-firm USD/JPY
 account. 
 
 The setup: Claude for vibe coding, teaching, and strategizing, MetaTrader 5 and its built-in Strategy Tester 
-for backtest and optimization, The5ers demo ($10k, 1:33) for the feed and trades, MQL5 for the bots. 
+for backtest and optimization, The5ers demo ($10k, 1:33, used mainly at 1:10) for the feed and trades, 
+MQL5 for the bots. 
 
 Research in Python 3.13 on Anaconda and Jupyter: pandas and numpy for the heavy lifting, 
 matplotlib for the charts, tqdm for watching progress bars at 6 seconds per seed, parquet
@@ -35,7 +36,7 @@ The philosophy regardless: one idea at a time, finish it, and if you
 wouldn't bet your own money on it, don't claim edge. Year-by-year
 testing, 500-seed Monte Carlo for anything random, post-cost everything. 
 
-Some bots were pure philosiphical bets: e.g. Monkey bought and sold randomly 
+Some bots were pure philosophical bets: e.g. Monkey bought and sold randomly 
 but tried to maintain S/L discipline. Overtime, this produced nothing.
 
 What survived so far: 
