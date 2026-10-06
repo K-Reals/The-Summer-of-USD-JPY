@@ -26,8 +26,7 @@ replay environment with airbrushed spreads, no real latency, and tick
 density that flatters every strategy that depends on it. 
 
 Because free tick CSVs from HistData.com — 3.5 years, 880 trading days, 17.5
-million rows — turned out to be 1-second bar snapshots wearing a
-tick costume. 
+million rows — turned out to be 1-second demo bar snapshots. 
 
 Because Python runs did not include realistic "basic" latency (the one MT5 does not charge for), 
 and high-speed edges evaporated irl.
